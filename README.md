@@ -1,2 +1,3 @@
 # alkhizha
-Lab1
+Lab2
+
